@@ -1,3 +1,4 @@
 loss.png
 Acc.png
 *.pt
+.ipynb_checkpoints/
